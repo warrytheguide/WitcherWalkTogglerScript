@@ -3,7 +3,7 @@
 If you prefer to compile the `.exe` yourself instead of running the pre-built binary:
 
 ### Prerequisites
-- Install **[AutoHotkey](https://www.autohotkey.com/)** (includes the `Ahk2Exe` compiler).
+- Install **[AutoHotkey2.0](https://www.autohotkey.com/)** (includes the `Ahk2Exe` compiler).
 
 ### Compilation Steps
 
