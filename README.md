@@ -9,8 +9,8 @@ If you prefer to compile the `.exe` yourself instead of running the pre-built bi
 
 1. Open the Start menu, search for **"Convert .ahk to .exe"** (or run `Ahk2Exe.exe` located in `C:\Program Files\AutoHotkey\Compiler\`).
 2. Set the build parameters:
-   - **Source (`.ahk` file):** Select `WitcherWalkToggle.ahk`.
-   - **Destination (`.exe` file):** Choose your output path (e.g. `WitcherCombinedToggle.exe`) or whichever you'd like to build.
+   - **Source (`.ahk` file):** Select `WitcherCombinedToggle.ahk` or whichever you'd like to build.
+   - **Destination (`.exe` file):** Choose your output path.
    - **Base File (`.bin / .exe`):** Select your installed AutoHotkey interpreter to a version of that is at least 2.0.
    - *(Optional)* **Custom Icon (`.ico`):** Select an icon file if you want a custom launcher/tray appearance.
 3. Click **Convert**.
